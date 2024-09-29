@@ -10,7 +10,7 @@ First of all, is needed to establish an conection between the GND (ground) to th
 
 ![Ground Conection](images/image.png)
 
-This step makes with that every connected components has the same gorund reference.
+This step makes with that every connected components has the same ground reference.
 
 ### 1.2 Put the LED 
 
